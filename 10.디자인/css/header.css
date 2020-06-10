@@ -17,6 +17,8 @@ header{position: fixed; top:0; left:0; z-index: 10; width: 100%;}
 .navbar-toggle {border: 1px solid whitesmoke;}
 .icon-bar {background-color: whitesmoke;}
 
+/* 섹션 */
+section {margin-top: 50px;}
 /* footer */
 footer {background-color: #263238; margin-top: 50px;}
 footer .footer-menu {text-align: center; margin: 0 auto;}
